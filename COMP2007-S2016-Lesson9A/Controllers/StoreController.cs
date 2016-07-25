@@ -26,6 +26,7 @@ namespace COMP2007_S2016_Lesson9A.Controllers
         public ActionResult Browse(string genre)
         {
             Genre genreModel = new Genre(genre);
+
             return View(genreModel);
         }
 

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using COMP2007_S2016_Lesson9A.Models;
 
 namespace COMP2007_S2016_Lesson9A.Models
 {
